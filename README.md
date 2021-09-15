@@ -20,4 +20,4 @@ Please fork this repository ad then issue pull requests for review.
 
 ###Copyright
 
-2021 Git Training
+2021 Git Training. All rights reserved.
